@@ -1,0 +1,6 @@
+Dirgeable	Airship
+Ballon	Balloon
+Helicoptere	Helicopter	
+Avion	Jet	
+Planeur		Plane
+Fusee	Rocket
