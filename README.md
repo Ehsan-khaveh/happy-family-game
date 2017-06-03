@@ -4,3 +4,7 @@ Happy Family is a traditional multiplayercard game, usually with a specially mad
 
 ## Implementation
 The project is a simple client-server based Java application which uses Java GUI widget toolkit such as Swing and AWT got the graphical interface. To start the game, the `ServerApplication.java` needs to run first. Once the server app is up, clients (players and observers) can join the game. This is done by running `ClientApplication.java`. As soon as 4 players are in, the game begins. The game ends as soon as one of the players has one complete family in hand.
+
+
+![Player Screen](screenshots/player.png?raw=true "Player Screen")
+![Server Screen](screenshots/server.png?raw=true "Server Screen")
