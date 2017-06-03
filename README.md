@@ -1,6 +1,6 @@
 # Happy Family Game
 
-![Player Screen](screenshots/player.png?raw=true "Player Screen")
+![Player Screen](screenshots/player.png=250x?raw=true "Player Screen")
 
 ## Game Overview
 Happy Family is a traditional multiplayercard game, usually with a specially made set of picture cards, featuring illustrations of fictional families, based on occupation types. The object of the game is to collect complete a family. The player whose turn it is asks another player for a specific card from the same family as a card that the player already has. If the asked player has the card, he gives it to the requester, and it will be next person's turn. The game goes on until someone has all the card for a family and wins the game.
